@@ -50,4 +50,4 @@ def adopt():
 register()
 
 adopt()
-aaaa
+aa
