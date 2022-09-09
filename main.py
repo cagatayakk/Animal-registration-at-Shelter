@@ -49,4 +49,4 @@ def adopt():
 
 #register()
 
-#adopt()
+adopt()
