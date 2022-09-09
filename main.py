@@ -47,6 +47,6 @@ def adopt():
                     remove_func()
                     break
 
-register()
+#register()
 
-adopt()
+#adopt()
